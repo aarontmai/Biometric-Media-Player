@@ -1,5 +1,5 @@
 # Biometric-Media-Player
-Facial/Expression recognition music player for CECS 490A
+Facial/Expression recognition music player 
 
 Link to current working demo: https://photos.app.goo.gl/RFK432FdHNrTCqek6
 
